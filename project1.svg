@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f8f9fa" opacity="0.3"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="50" cy="50" r="20" fill="#a6d8f0" opacity="0.3"/>
+  <circle cx="350" cy="250" r="25" fill="#f9c6d4" opacity="0.3"/>
+  
+  <!-- Website Mockup -->
+  <rect x="100" y="50" width="200" height="150" rx="5" fill="#ffffff" stroke="#a6d8f0" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="100" y="50" width="200" height="30" rx="5" fill="#a6d8f0"/>
+  <circle cx="115" cy="65" r="5" fill="#ffffff"/>
+  <line x1="130" y1="65" x2="170" y2="65" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="180" y1="65" x2="200" y2="65" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="210" y1="65" x2="230" y2="65" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="240" y1="65" x2="260" y2="65" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Content -->
+  <rect x="110" y="90" width="80" height="60" rx="2" fill="#f9c6d4" opacity="0.5"/>
+  <rect x="200" y="90" width="90" height="20" rx="2" fill="#c3e6cb" opacity="0.5"/>
+  <rect x="200" y="120" width="90" height="30" rx="2" fill="#ffeead" opacity="0.5"/>
+  <rect x="110" y="160" width="180" height="30" rx="2" fill="#a6d8f0" opacity="0.3"/>
+  
+  <!-- Code Elements -->
+  <g transform="translate(100, 220)">
+    <rect width="200" height="30" rx="5" fill="#495057"/>
+    <text x="10" y="20" font-family="monospace" font-size="12" fill="#ffffff">&lt;div class="project"&gt;&lt;/div&gt;</text>
+  </g>
+  
+  <!-- Abstract Design Elements -->
+  <circle cx="50" cy="150" r="15" fill="#c3e6cb" opacity="0.4"/>
+  <circle cx="350" cy="100" r="20" fill="#ffeead" opacity="0.4"/>
+  <path d="M30,200 C50,180 70,220 90,200" fill="none" stroke="#f9c6d4" stroke-width="3" stroke-linecap="round"/>
+  <path d="M310,80 C330,60 350,100 370,80" fill="none" stroke="#a6d8f0" stroke-width="3" stroke-linecap="round"/>
+</svg>

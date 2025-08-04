@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f8f9fa" opacity="0.3"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="50" cy="150" r="20" fill="#ffeead" opacity="0.3"/>
+  <circle cx="350" cy="150" r="25" fill="#a6d8f0" opacity="0.3"/>
+  
+  <!-- Dashboard Mockup -->
+  <rect x="80" y="50" width="240" height="180" rx="5" fill="#ffffff" stroke="#495057" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="80" y="50" width="240" height="40" rx="5" fill="#c3e6cb"/>
+  <circle cx="100" cy="70" r="10" fill="#ffffff"/>
+  <line x1="120" y1="70" x2="160" y2="70" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <line x1="260" y1="70" x2="300" y2="70" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Dashboard Content -->
+  <rect x="90" y="100" width="100" height="60" rx="5" fill="#f9c6d4" opacity="0.5"/>
+  <rect x="90" y="170" width="100" height="50" rx="5" fill="#a6d8f0" opacity="0.5"/>
+  <rect x="200" y="100" width="110" height="120" rx="5" fill="#ffeead" opacity="0.5"/>
+  
+  <!-- Chart Elements -->
+  <line x1="110" y1="140" x2="170" y2="140" stroke="#495057" stroke-width="1"/>
+  <line x1="110" y1="130" x2="150" y2="130" stroke="#495057" stroke-width="1"/>
+  <line x1="110" y1="120" x2="160" y2="120" stroke="#495057" stroke-width="1"/>
+  
+  <circle cx="220" cy="120" r="5" fill="#495057"/>
+  <circle cx="240" cy="140" r="5" fill="#495057"/>
+  <circle cx="260" cy="130" r="5" fill="#495057"/>
+  <circle cx="280" cy="150" r="5" fill="#495057"/>
+  <path d="M220,120 L240,140 L260,130 L280,150" fill="none" stroke="#495057" stroke-width="1"/>
+  
+  <rect x="110" y="180" width="10" height="30" fill="#495057"/>
+  <rect x="130" y="190" width="10" height="20" fill="#495057"/>
+  <rect x="150" y="170" width="10" height="40" fill="#495057"/>
+  <rect x="170" y="200" width="10" height="10" fill="#495057"/>
+  
+  <!-- Code Elements -->
+  <g transform="translate(100, 240)">
+    <rect width="200" height="30" rx="5" fill="#495057"/>
+    <text x="10" y="20" font-family="monospace" font-size="12" fill="#ffffff">data.visualize("dashboard");</text>
+  </g>
+  
+  <!-- Abstract Shapes -->
+  <path d="M30,100 C50,80 70,120 90,100" fill="none" stroke="#c3e6cb" stroke-width="3" stroke-linecap="round"/>
+  <path d="M310,200 C330,180 350,220 370,200" fill="none" stroke="#f9c6d4" stroke-width="3" stroke-linecap="round"/>
+</svg>
